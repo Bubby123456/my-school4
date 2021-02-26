@@ -1,0 +1,53 @@
+body {
+    text-align: center;
+    scroll-behavior: auto;
+    background-color: aqua;
+    border: 20px;
+    border-style: solid;
+    border-color: blueviolet;
+}
+
+#brooklynimg {
+    cursor: pointer;
+    
+}
+
+#acheivements {
+    margin-top: 900px;
+}
+
+#contact img {
+    margin-left: 1000px;
+    
+}
+
+#vv {
+    margin-left:900px; 
+}
+
+#facebook {
+    background-image: url(facebook%20logo.png);
+    height: 500px;
+    width: 500px;
+}
+
+#instagram {
+    background-image: url(Instagram%20logo22.png);
+    height: 500px;
+    width: 500px;
+}
+
+#acheivements {
+    margin-bottom: 220px;
+    background-color: aqua;
+}
+
+#videos iframe {
+    margin-top: 220px;
+    margin-bottom: 220px;;
+}
+
+#social h5 {
+    font-size: 30px;
+}
+]
